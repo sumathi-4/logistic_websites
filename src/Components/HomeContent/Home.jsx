@@ -5,11 +5,11 @@ import HomeService from "./HomeService";
 import WhyOutports from "./WhyOutports";
 import HomeSolution from "./HomeSolution";
 import HomeWarhouse from "./HomeWarhouse";
-import moreContainerSketch from "../../assets/HomeImages/moreContainerSketch.png";
+import moreContainerSketch from "../../assets/Homeimages/moreContainerSketch.png";
 import Aeroplane from "../../assets/HomeImages/AeroplaneSketch.png";
-import Ship from "../../assets/HomeImages/ContShipSketch.png";
-import HangCont from "../../assets/HomeImages/HangingContSketch.png";
-import ContOpen from "../../assets/HomeImages/ContBoxOpen.png";
+import Ship from "../../assets/Homeimages/ContShipSketch.png";
+import HangCont from "../../assets/Homeimages/HangingContSketch.png";
+import ContOpen from "../../assets/Homeimages/ContBoxOpen.png";
 import HomeAbout from "./HomeAbout";
 import HomeGlobalReach from "./HomeGlobalReach";
 
