@@ -1,4 +1,4 @@
-import Container from "../../assets/Homeimages/container.png";
+import container from "../../assets/Homeimages/container.png";
 import "../HomeContent/Home.css";
 import Features from "./Features";
 import HomeService from "./HomeService";
